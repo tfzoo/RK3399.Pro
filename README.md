@@ -1,16 +1,20 @@
-﻿[![sites](docs/mcuyun.png)](http://www.mcuyun.com)
+﻿[![sites](tfzoo/tfzoo.png)](http://www.mcuyun.com)
 
-# Cortex A: tensorflow zoo
+# [RK3399.Pro](https://github.com/tfzoo/RK3399.Pro) 
+
 
 ## 简介
 
-基于RK3399PRO芯片，搭建边缘AI节点的模型仓库
+适用于瑞芯微RK3399Pro芯片的tensorflow模型
 
 ---
 
+## 组成
+
 
 
 ---
+
 
 
 
